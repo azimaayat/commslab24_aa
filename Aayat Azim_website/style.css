@@ -69,14 +69,13 @@ header nav ul li a {
 }
 
 #home::before {
-   /* Replace with the actual name if different */
     display: block;
-    font-size: 24px; /* Adjust size as needed */
-    margin-bottom: 20px; /* Adjust spacing as needed */
+    font-size: 24px; 
+    margin-bottom: 20px;
     text-align: left;
     width: 100%;
-    max-width: 1200px; /* Match container width if any */
-    padding-left: 20px; /* Adjust padding as needed */
+    max-width: 1200px;
+    padding-left: 20px; 
 }
 
 /* Section Styling */
